@@ -20,3 +20,12 @@
     group_average is a function to create dataset that has the average of each variable for each activity and subject.
     It's argument is the dataframe created by mean_sd.
     
+  ## run_analysis
+    
+    run_analysis is a code which load all above functions in your workspace and run these.
+    Then, create dataframe called "mydf" and write it as a text file.
+    
+  ## result_analysis.txt
+  
+    this file is a result of analysis.
+    it has columns which show activity name and sample ID and average of values.
