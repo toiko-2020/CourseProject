@@ -1,0 +1,5 @@
+# result_analysis
+
+  it has columns which show activity name and sample ID and average of sd and means of values.
+  which is calculated by each sample ID and activity.
+  sample ID is from 1 to 30 and each ID indicate 1 sample.
